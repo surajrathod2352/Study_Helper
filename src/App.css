@@ -1,0 +1,58 @@
+.heading {
+  text-align: center;
+  font-size: 30px;
+  padding: 15px;
+  color: white;
+  background-color: rgb(180, 30, 30);
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.781);
+  overflow: hidden;
+}
+
+.silkscreen-regular {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+}
+
+.linkinput {
+  padding: 30px;
+  width: 70%;
+  margin: auto;
+  /* display: flex; */
+  /* border: 2px solid black; */
+}
+
+.inputwa{
+  /* display: block; */
+  width: 200px;
+  /* background-color: red; */
+}
+
+.printButton
+{
+  background-color: rgb(144, 190, 218);
+  height: 40px;
+  display: block;
+  float: right;
+}
+
+.VideoPlayer {
+  width: 50%;
+  margin-left: 10px;
+}
+
+.TextEditor {
+  width: 48%;
+  height: 500px;
+  overflow-y:auto ;
+  color: rgb(5, 5, 5);
+  background-color: rgba(248, 248, 248, 0.774);
+}
+
+.quill
+{
+  width: 100%;
+
+}
